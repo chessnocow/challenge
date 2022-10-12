@@ -17,6 +17,9 @@ This is not intended to be a fully production ready application. We are not expe
 >  pip install -r requirements.txt
 - Install corpus for sentiment analysis
 > python3 -m textblob.download_corpora
+- Set the token for Twitter API
+[How to get access to the Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
+> export BEARER_TOKEN=<token_from_your_developer_project>
 - Run the app (default query is "Kahoot")
 > python3 main.py <search_query>
 
