@@ -27,9 +27,7 @@ FROM
     AND UC1.created < UC2.created
   )
 WHERE
-  UC2.created IS NULL
-ORDER BY
-  UWI;
+  UC2.created IS NULL;
 ```
 
 ## Q2. Write an SQL query using vendor neutral ANSI SQL to find the median time between the second and third profile edit. Do not worry too much about the performance of the query, favour readability.
