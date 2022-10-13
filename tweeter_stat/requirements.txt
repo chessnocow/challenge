@@ -1,19 +1,19 @@
-certifi @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/78/43/55/e2d2f2893d03d62627dce642e454bdeff9756d03980f561a267eb156df/certifi-2022.9.24-py3-none-any.whl
-charset-normalizer @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/3e/99/e2/360c4ab5408a60c2f59e1f90b0e788ec410f1ebc0921724075288f9af9/charset_normalizer-2.1.1-py3-none-any.whl
-click @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/9d/ca/2f/bc3cc4a294e96f355d01d24ac6fefdde4c6286f9f63b7ce1c91d5f0c22/click-8.1.3-py3-none-any.whl
-idna @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/a9/f2/65/df91fc5f4e7bf1bb8b8d4b9da51737a5fe4b70fe4f5034466ec4335ed6/idna-3.4-py3-none-any.whl
-joblib @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/78/5f/bb/5ea7edaf7c2a8151e3bd126c734f81a648b26d9ee7f3611f15546b050a/joblib-1.2.0-py3-none-any.whl
-nltk @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/fa/3a/e7/039be37a8319e1d87eb9c6d4091d38c90ff404544574f52fe5fdf6a620/nltk-3.7-py3-none-any.whl
-numpy @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/28/4b/71/03523baa5c53ffc666f60a7eacc92ac239a1d893b85f0b5da649796f0f/numpy-1.23.3-cp39-cp39-macosx_10_9_x86_64.whl
-oauthlib @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/aa/b4/eb/c6ab9db08a2d0b054174fab7ddc887fe2a1dc521634226850f7737f146/oauthlib-3.2.1-py3-none-any.whl
-pandas @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/6e/af/51/0697a9caab7fc6701cf4c6b7428a4d63f60f22f4587579485befd885e7/pandas-1.5.0-cp39-cp39-macosx_10_9_x86_64.whl
-python-dateutil @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/53/f8/2a/7d63ce15df7386e9536e83413453f8aa845b47fb425f05c4ca2fb231c3/python_dateutil-2.8.2-py2.py3-none-any.whl
-pytz @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/19/ff/92/90758f450f02304583810d4e1fa23ed3e93b9130775b2331ea3494cb58/pytz-2022.4-py2.py3-none-any.whl
-regex @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/24/c8/01/fab97f14c02dbfef009531951ebcf70fc919e622b73391731b5b15e087/regex-2022.9.13-cp39-cp39-macosx_10_9_x86_64.whl
-requests @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/96/68/40/1b2019f1ca6a6d07b2a3107daab4dca1e11111be3af28a435f7cd0463a/requests-2.28.1-py3-none-any.whl
-requests-oauthlib @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/33/73/31/43c706dd726dc855100e4221ec8d5a1b0a0e1587af3af00c76d1da9134/requests_oauthlib-1.3.1-py2.py3-none-any.whl
-six @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/08/9f/47/c16ae03035fc69eaf100ea39657a49baaeef714e25a52575710c34cd48/six-1.16.0-py2.py3-none-any.whl
-textblob @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/99/65/74/1bc7b9f30157e05f7200b35c8a92bea541537abdb36a148bd65bc99079/textblob-0.17.1-py2.py3-none-any.whl
-tqdm @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/d8/fe/22/d9ff2d62224e3a4674c29b6ce62f7e380c586dd20b2f6c54e595fac940/tqdm-4.64.1-py2.py3-none-any.whl
-tweepy @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/43/0a/85/7d182f4fb8dc1f72a80e2dca95294f1fd682f3d4ec42c34511259a6bfa/tweepy-4.10.1-py3-none-any.whl
-urllib3 @ file:///Users/romanchesnokov/Library/Caches/pypoetry/artifacts/af/0a/28/df174fdcb31e5a78bcea2260eb915eda3b5df188b91a0884307973699f/urllib3-1.26.12-py2.py3-none-any.whl
+certifi==2022.9.24
+charset-normalizer==2.1.1
+click==8.1.3
+idna==3.4
+joblib==1.2.0
+nltk==3.7
+numpy==1.23.3
+oauthlib==3.2.1
+pandas==1.5.0
+python-dateutil==2.8.2
+pytz==2022.4
+regex==2022.9.13
+requests==2.28.1
+requests-oauthlib==1.3.1
+six==1.16.0
+textblob==0.17.1
+tqdm==4.64.1
+tweepy==4.10.1
+urllib3==1.26.12
